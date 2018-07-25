@@ -1,2 +1,2 @@
 # TicTacToe
-Its a TicTacToe game implementation that can run on a server.
+I'ts a Tic-Tac-Toe game implementation that can run on a server.
